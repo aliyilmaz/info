@@ -2,10 +2,11 @@
 
 This function is used to access information about a path that contains a file. Both parameters it takes must be specified as `string`. The path `$str` represents the information type parameter `$type`.
 
-dirname
-basename
-extension
-filename
+parameters:
+1. dirname (The directory where the file is located)
+2. basename (The name of the file with its extension)
+3. extension (File extention)
+4. filename (File name)
 
 
 **Out-of-class use:**
