@@ -39,9 +39,9 @@ Mind
 ---
 
 ### Dependencies
-This package has no dependencies.
+1. [get_absolute_path 1.0.0](https://github.com/aliyilmaz/get_absolute_path)
 
 ---
 
 ### License
-Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/filter/blob/main/LICENSE) license.
+Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/info/blob/main/LICENSE) license.
